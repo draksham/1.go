@@ -343,7 +343,7 @@ func main() {
 
   fmt.Println(a)
 
-  a["year"] = "1970" // Updating an element
+  a["year"] = "1983" // Updating an element
   a["color"] = "red" // Adding an element
 
   fmt.Println(a)
